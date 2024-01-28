@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 <br/>
-#
+
 ###Languages and Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alight="left" width='30px' style="padding-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="left" width='30px' style="padding-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" align="left" width='30px' style="padding-right:10px;"/>
 <br/>
 
 <!--
