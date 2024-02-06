@@ -6,7 +6,7 @@ Front End developer
 
 Results-oriented Front-End Developer with a proven track record in enhancing user experiences and optimizing website performance. I possess a diverse technical skill set, including expertise in Python, SQL, JavaScript, React, React Native, and other frameworks. Complemented by a Diploma in Computer Programming from Sheridan College, my commitment to staying current is evident through certifications in React Native and NodeJS from Udemy.
 
-*   🌍  I'm based in Canada
+*   🌍  I'm based in Canada🇨🇦
 *   ✉️  You can contact me at [vlad.bona@gmail.com](mailto:vlad.bona@gmail.com)
 *   🧠  I'm learning AWS
 <p align="left">
