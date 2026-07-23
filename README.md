@@ -1,11 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vladyslav Banasko
 =========================================================================================================================================
 
-Front End developer
--------------------
-
-Results-oriented Front-End Developer with a proven track record in enhancing user experiences and optimizing website performance. I possess a diverse technical skill set, including expertise in Python, SQL, JavaScript, React, React Native, and other frameworks. Complemented by a Diploma in Computer Programming from Sheridan College, my commitment to staying current is evident through certifications in React Native and NodeJS from Udemy.
-
+Junior Data Analyst passionate about turning raw data into clear, actionable insight — backed by hands-on experience in business analysis and frontend development.
+ 
+📊 Data: SQL (joins, subqueries, CTEs, window functions), Python (pandas, NumPy), data validation (1K+ records), dashboards in Tableau/Power BI/Looker, API data handling (JSON/XML)
+ 
+📈 Business Analysis: Requirements gathering, user stories, process modeling (BPMN/UML), stakeholder communication, backlog management
+ 
+✨ Frontend: HTML, CSS, JavaScript, React — so I understand how the data I analyze connects to the end user
+ 
+I bring a cross-functional perspective most junior analysts don't have yet: I ask better questions because I've sat on the business side, and I can validate my findings because I understand the systems generating the data.
+ 
+📍 Based in the GTA — open to internships and junior Data/Business Analyst roles, remote or on-site.
 *   🌍  I'm based in Canada, Toronto 1
 *   ✉️  You can contact me at [vlad.bona@gmail.com](mailto:vlad.bona@gmail.com)
 *   🧠  I'm learning AWS
